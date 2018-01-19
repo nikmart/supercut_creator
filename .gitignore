@@ -129,9 +129,9 @@ Temporary Items
 .apdisk
 
 # Video files
-.mp4
-.m4v
-.mov
+*.mp4
+*.m4v
+*.mov
 
 # Data Files
-.csv
+*.csv
